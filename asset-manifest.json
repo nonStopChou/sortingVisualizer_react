@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/nonStopChou/nonStopChou.github.io/sortingVisualizer_react/static/css/main.c21ede47.chunk.css",
+    "main.js": "/nonStopChou/nonStopChou.github.io/sortingVisualizer_react/static/js/main.b194e7b2.chunk.js",
+    "main.js.map": "/nonStopChou/nonStopChou.github.io/sortingVisualizer_react/static/js/main.b194e7b2.chunk.js.map",
+    "runtime-main.js": "/nonStopChou/nonStopChou.github.io/sortingVisualizer_react/static/js/runtime-main.261a237d.js",
+    "runtime-main.js.map": "/nonStopChou/nonStopChou.github.io/sortingVisualizer_react/static/js/runtime-main.261a237d.js.map",
+    "static/css/2.1cf03e63.chunk.css": "/nonStopChou/nonStopChou.github.io/sortingVisualizer_react/static/css/2.1cf03e63.chunk.css",
+    "static/js/2.45d3554c.chunk.js": "/nonStopChou/nonStopChou.github.io/sortingVisualizer_react/static/js/2.45d3554c.chunk.js",
+    "static/js/2.45d3554c.chunk.js.map": "/nonStopChou/nonStopChou.github.io/sortingVisualizer_react/static/js/2.45d3554c.chunk.js.map",
+    "index.html": "/nonStopChou/nonStopChou.github.io/sortingVisualizer_react/index.html",
+    "static/css/2.1cf03e63.chunk.css.map": "/nonStopChou/nonStopChou.github.io/sortingVisualizer_react/static/css/2.1cf03e63.chunk.css.map",
+    "static/css/main.c21ede47.chunk.css.map": "/nonStopChou/nonStopChou.github.io/sortingVisualizer_react/static/css/main.c21ede47.chunk.css.map",
+    "static/js/2.45d3554c.chunk.js.LICENSE.txt": "/nonStopChou/nonStopChou.github.io/sortingVisualizer_react/static/js/2.45d3554c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.261a237d.js",
+    "static/css/2.1cf03e63.chunk.css",
+    "static/js/2.45d3554c.chunk.js",
+    "static/css/main.c21ede47.chunk.css",
+    "static/js/main.b194e7b2.chunk.js"
+  ]
+}

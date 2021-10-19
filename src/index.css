@@ -1,0 +1,31 @@
+.vl {
+  border-left: 4px solid;
+  position: absolute;
+  float: left;
+  margin-left:1%;
+  top: 500px;
+  bottom: 100px;
+  /*animation: grow 2s forwards;*/
+}
+/*
+@keyframes grow{
+  0% {
+    top: 400px;
+    bottom: 100px;
+  }
+  100%{
+    top: 300px;
+    bottom: 100px;
+  }
+}*/
+
+.boundary {
+  width: 95%;
+}
+
+body {
+  right: auto;
+  left: auto;
+  background-color: lightblue;
+
+}
